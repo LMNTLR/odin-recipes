@@ -1,0 +1,1 @@
+Create a recipe website as a first project of The Odin Project
